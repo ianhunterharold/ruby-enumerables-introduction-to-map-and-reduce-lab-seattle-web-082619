@@ -69,7 +69,7 @@ def reduce_to_all_true(source_array)
   end 
   return true 
 end 
-# learn where to put your increment hint always inside the loop and keep praticing best placement for return statement and if its outside of the loop or inside of the loop 
+# learn where to put your increment hint always inside the loop and keep praticing best placement for return statement and if its outside of the loop or inside of the loop. 
 
  def reduce_to_any_true(source_array)
    #same as the above problem but backwards. in my mind at least. 
